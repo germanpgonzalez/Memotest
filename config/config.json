@@ -1,0 +1,128 @@
+[
+    {
+        "admin": {
+            "-CASILLAS-": "Nivel 2: 4x3",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 2.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "Laura": {
+            "-CASILLAS-": "Nivel 1: 4x2",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 1.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "ZZZZZ": {
+            "-CASILLAS-": "Nivel 1: 4x2",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 15.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "Rolfi": {
+            "-CASILLAS-": "Nivel 1: 4x2",
+            "-ELEMENTOS-": "Palabras",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 15,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "Robocop": {
+            "-CASILLAS-": "Nivel 2: 4x3",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 15.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "Carlos": {
+            "-CASILLAS-": "Nivel 3: 4x4",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 15.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "Victoria": {
+            "-CASILLAS-": "Nivel 2: 4x3",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 1.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "Zanetti": {
+            "-CASILLAS-": "Nivel 3: 4x4",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 3.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    },
+    {
+        "prueba": {
+            "-CASILLAS-": "Nivel 1: 4x2",
+            "-ELEMENTOS-": "Imágenes",
+            "-S_AYUDAS-": true,
+            "-C_AYUDAS-": false,
+            "-TIEMPO-": 3.0,
+            "-COINCIDENCIAS-": "2",
+            "-COLORES-": "Marrón y Amarillo",
+            "-T_VICTORIA-": "¡Ganaste!",
+            "-T_DERROTA-": "¡Perdiste!",
+            "-T_TIEMPO-": "¡Queda poco tiempo!"
+        }
+    }
+]

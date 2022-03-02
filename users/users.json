@@ -1,0 +1,56 @@
+[
+    {
+        "Nickname": "admin",
+        "Password": "admin",
+        "Edad": 28,
+        "Genero": "Masculino"
+    },
+    {
+        "Nickname": "Laura",
+        "Password": "123456",
+        "Edad": 25,
+        "Genero": "Femenino"
+    },
+    {
+        "Nickname": "ZZZZZ",
+        "Password": "123456",
+        "Edad": 15,
+        "Genero": "Otro"
+    },
+    {
+        "Nickname": "Rolfi",
+        "Password": "aaaaaa",
+        "Edad": 31,
+        "Genero": "Masculino"
+    },
+    {
+        "Nickname": "Robocop",
+        "Password": "aaaaaa",
+        "Edad": 12,
+        "Genero": "Otro"
+    },
+    {
+        "Nickname": "Carlos",
+        "Password": "aaaaaa",
+        "Edad": 11,
+        "Genero": "Masculino"
+    },
+    {
+        "Nickname": "Victoria",
+        "Password": "aaaaaa",
+        "Edad": 25,
+        "Genero": "Femenino"
+    },
+    {
+        "Nickname": "Zanetti",
+        "Password": "aaaaaa",
+        "Edad": 43,
+        "Genero": "Masculino"
+    },
+    {
+        "Nickname": "prueba",
+        "Password": "aaaaaa",
+        "Edad": 14,
+        "Genero": "Otro"
+    }
+]
